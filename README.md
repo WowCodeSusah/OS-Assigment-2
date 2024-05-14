@@ -1,2 +1,2 @@
 ## Solution to Disk Request
-Using both SCAN, C-SCAN, FCFS
+Using SCAN, C-SCAN, FCFS
